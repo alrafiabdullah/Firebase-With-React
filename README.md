@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+The Project is live [here](https://auth-test-b3258.firebaseapp.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
